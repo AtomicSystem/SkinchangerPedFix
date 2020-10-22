@@ -1,8 +1,8 @@
 Config = {}
-Config.Locale = 'es'
-Config.UseAccordantArms = false -- Hide incompatible arms
-pedList = {
-	'player_zero',
+Config.Locale = 'en'
+Config.UseAccordantArms = false -- Hide incompatible arms / Ocultar brazos incompatibles -- STAY FALSE to CORRECT FUNCTION
+pedList = { -- ignore this
+    'player_zero',
     'player_one',
     'player_two',
     --[['s_m_y_clown_01',
