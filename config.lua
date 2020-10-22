@@ -1,7 +1,7 @@
 Config = {}
 Config.Locale = 'en'
 Config.UseAccordantArms = false -- Hide incompatible arms / Ocultar brazos incompatibles -- STAY FALSE to CORRECT FUNCTION
-pedList = { -- ignore this
+pedList = { -- only add bugged NATIVE peds
     'player_zero',
     'player_one',
     'player_two',
